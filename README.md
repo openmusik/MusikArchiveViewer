@@ -20,19 +20,19 @@ A comprehensive, modular, and high-performance desktop application for scanning,
 
 REQUIREMENTS:
 
-** Image processing for UI **
+**Image processing for UI**
 Pillow>=9.0.0
 
-** Audio playback **
+**Audio playback**
 pygame>=2.1.0
 
-** Audio metadata parsing **
+**Audio metadata parsing**
 mutagen>=1.45.0
 
-** File locking utility for safe concurrent access **
+**File locking utility for safe concurrent access**
 filelock>=3.12.0
 
-** Clipboard access **
+**Clipboard access**
 pyperclip>=1.8.2
 
 ## 📊 Project Statistics
