@@ -11,8 +11,8 @@ A comprehensive, modular, and high-performance desktop application for scanning,
 - **Advanced Media Scanning:** Recursively scan directories to discover and group Udio tracks with their associated metadata, lyrics, and artwork files.
 - **High-Performance UI:** Features a fully virtualized track list capable of smoothly displaying thousands of items without performance degradation.
 - **Audio Playback:** Professional-grade audio player supporting multiple backends (VLC, Pygame), full playback controls (play, pause, seek), and playlist management (repeat, shuffle).
-- **Dynamic Theming:** Instantly switch between light and dark modes.
-- **Detailed Metadata View:** A tabbed interface to explore all track metadata, including core info, prompts, lyrics, technical details, and raw JSON data. **-TODO-**
+- **Dynamic Theming:** Instantly switch between light and dark modes. **-Needs implementing with UI-**
+- **Detailed Metadata View:** A tabbed interface to explore all track metadata, including core info, prompts, lyrics, technical details, and raw JSON data.
 - **Asynchronous Image Loading:** Non-blocking artwork and thumbnail loading with an LRU cache to keep the UI responsive at all times. - **CURRENTLY BROKEN**
 - **Modular Architecture:** Built with a clean separation of concerns (Domain, Services, UI, Utils) for excellent maintainability and extensibility.
 
