@@ -1,0 +1,10 @@
+# requirements.txt
+
+# For image processing and display in the UI
+Pillow>=9.0.0
+
+# For audio playback. Pygame is a common and easy-to-install choice.
+pygame>=2.1.0
+
+# For reading embedded metadata tags from audio files (e.g., MP3, FLAC)
+mutagen>=1.45.0

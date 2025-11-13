@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "udio_media_manager"
+version = "0.1.0"
+description = "A modular media manager for Udio projects"
+authors = [{ name = "Your Name", email = "you@example.com" }]
+dependencies = ["PyQt6", "SQLAlchemy", "requests"]
