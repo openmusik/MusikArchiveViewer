@@ -28,6 +28,8 @@ Preview Windows Portable Build: [MusikArchiveViewer v.01](https://github.com/ope
 Use the [UdioArchiver.js](https://github.com/openmusik/MusikArchiveViewer/blob/main/UdioArchiver.js) script with Tampermonkey on your favorite browser (Tested with Chrome and Firefox)
 When you have your export, scan the directory they were saved in with this tool.
 
+**Got another format you want to import like json or something else? Give a shout and maybe it will be implemented!**
+
 REQUIREMENTS:
 
 **Image processing for UI**
