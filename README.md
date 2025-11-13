@@ -6,6 +6,9 @@ A comprehensive, modular, and high-performance desktop application for scanning,
 
 ---
 
+<img width="1493" height="795" alt="image" src="https://github.com/user-attachments/assets/3c63341f-abcc-42a0-b288-abe500333faa" />
+
+---
 ## 🌟 Features
 
 - **Advanced Media Scanning:** Recursively scan directories to discover and group Udio tracks with their associated metadata, lyrics, and artwork files.
