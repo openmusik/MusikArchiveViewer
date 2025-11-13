@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      36.0
 // @description  Udio Downloader with MP4, Album Art & Comprehensive Metadata
-// @author       YourName
+// @author       Uberration
 // @match        https://www.udio.com/*
 // @grant        GM_download
 // @grant        GM_addStyle

@@ -6,5 +6,5 @@ build-backend = "setuptools.build_meta"
 name = "udio_media_manager"
 version = "0.1.0"
 description = "A modular media manager for Udio projects"
-authors = [{ name = "Your Name", email = "you@example.com" }]
+authors = [{ name = "Uberration", email = "who.are@you.even" }]
 dependencies = ["PyQt6", "SQLAlchemy", "requests"]
