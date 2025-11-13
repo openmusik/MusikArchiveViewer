@@ -18,6 +18,11 @@ A comprehensive, modular, and high-performance desktop application for scanning,
 
 ---
 
+**HOW TO USE:**
+
+Use the [UdioArchiver.js](https://github.com/openmusik/MusikArchiveViewer/blob/main/UdioArchiver.js) script with Tampermonkey on your favorite browser (Tested with Chrome and Firefox)
+When you have your export, scan the directory they were saved in with this tool.
+
 REQUIREMENTS:
 
 **Image processing for UI**
